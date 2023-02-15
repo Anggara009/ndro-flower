@@ -1,2 +1,0 @@
-# ndro-flower
-for you!
